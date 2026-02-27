@@ -1,0 +1,31 @@
+# Master Instructions:
+
+Part 1 – Core Principles & Mindset  
+Part 2 – Immediate Post-Fresh-Install Hardening (before any 3rd-party software)  
+Part 3 – Account & Access Baseline  
+Part 4 – Network & Firewall Tightening  
+Part 5 – Execution Control & Allowlisting  
+Part 6 – Sandboxing & Isolation Choices  
+Part 7 – Malware Detection & Persistence Monitoring  
+Part 8 – Credential & 2FA Safety  
+Part 9 – Data Protection, Backups & Recovery  
+Part 10 – Physical & Operational Practices  
+Part 11 – Risky Software Ritual (daily/weekly/monthly checklist)  
+Part 12 – Quick Implementation Priority Order
+
+
+## Part 1 – Core Principles & Mindset
+
+- You are advanced / power users with strong security awareness and caution protocols already in place.  
+- Gray-area, unaffordable legitimate licenses for needed educational tools, limited/reliable internet.  
+- Long-term goal = migrate to open-source + legal/low-cost alternatives when possible, but impossible to enforce on shared machine immediately.  
+- Security posture = layered defense assuming endpoint compromise is always possible when running untrusted binaries.  
+- Key mantras repeated across conversation:  
+  - Least privilege (standard/non-admin daily account)  
+  - Isolation first (Sandbox / VM / portable USB)  
+  - Revert / delete / snapshot after risky sessions  
+  - Offline / low-bandwidth first (USB-based everything)  
+  - Monitor persistence vectors aggressively (registry, filesystem, startup, scheduled tasks, services)  
+  - Never run unknown installers in main / daily account  
+  - Encrypt at rest + in transit where feasible  
+  - Test recovery paths regularly (restore, snapshot revert, 2FA codes)
