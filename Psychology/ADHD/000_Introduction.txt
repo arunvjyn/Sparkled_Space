@@ -1,0 +1,378 @@
+ADHD (Attention-Deficit/Hyperactivity Disorder)
+
+1. What It Is (Clinical Definition)
+
+ADHD is a neurodevelopmental disorder defined in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR) as a persistent pattern of:
+
+Inattention
+
+Hyperactivity
+
+Impulsivity
+
+
+that interferes with functioning or development.
+
+It begins in childhood, but often continues into adolescence and adulthood.
+
+
+---
+
+2. Core Symptoms (Scientifically Classified)
+
+ADHD has three presentations:
+
+1. Predominantly Inattentive
+
+
+2. Predominantly Hyperactive-Impulsive
+
+
+3. Combined Presentation
+
+
+
+A. Inattention (Examples)
+
+Difficulty sustaining attention
+
+Easily distracted
+
+Forgetful in daily activities
+
+Trouble organizing tasks
+
+Avoids tasks requiring sustained mental effort
+
+
+This is not laziness — it is a problem with executive functioning.
+
+
+---
+
+B. Hyperactivity
+
+Fidgeting
+
+Excessive talking
+
+Difficulty staying seated
+
+Feeling “internally restless”
+
+
+
+---
+
+C. Impulsivity
+
+Interrupting others
+
+Blurting out answers
+
+Difficulty waiting turn
+
+Acting without considering consequences
+
+
+
+---
+
+3. Brain Science (Neuroscience Evidence)
+
+Research using fMRI and structural MRI shows:
+
+Reduced activity in the prefrontal cortex
+
+Altered functioning in basal ganglia
+
+Differences in dopamine regulation
+
+
+The prefrontal cortex controls:
+
+Planning
+
+Working memory
+
+Impulse control
+
+Attention regulation
+
+
+ADHD is strongly linked to dopamine and norepinephrine dysregulation.
+
+Think of dopamine as the brain’s “motivation and focus signal.”
+In ADHD, this signal is weaker or inconsistently regulated.
+
+
+---
+
+4. Causes (Evidence-Based Understanding)
+
+ADHD is not caused by bad parenting.
+
+Major contributors:
+
+1. Genetics (Most Significant Factor)
+
+Heritability: ~70–80%
+
+Runs strongly in families
+
+
+2. Neurobiological Development
+
+Delayed cortical maturation (2–3 years on average)
+
+
+3. Environmental Risk Factors
+
+Premature birth
+
+Low birth weight
+
+Prenatal exposure to alcohol or smoking
+
+Severe early stress
+
+
+No strong scientific evidence that:
+
+Sugar causes ADHD
+
+Watching TV causes ADHD
+
+
+
+---
+
+5. Prevalence (Global Data)
+
+Children: ~5–7%
+
+Adults: ~2.5–4%
+
+
+It is diagnosed more often in boys during childhood, but in adulthood the gender gap narrows.
+
+
+---
+
+6. ADHD Across Lifespan
+
+In Children
+
+School difficulties
+
+Behavioral issues
+
+Academic underperformance
+
+
+In Adolescents
+
+Risk-taking behavior
+
+Emotional dysregulation
+
+Low self-esteem
+
+
+In Adults
+
+Job instability
+
+Time management problems
+
+Relationship difficulties
+
+Chronic procrastination
+
+
+Hyperactivity often decreases with age,
+but inattention and executive dysfunction often remain.
+
+
+---
+
+7. Executive Function Impairment (Very Important Concept)
+
+ADHD is better understood as a disorder of:
+
+Self-regulation
+
+Time management
+
+Working memory
+
+Emotional control
+
+
+It is not a knowledge problem.
+It is a performance regulation problem.
+
+A person with ADHD may:
+
+Know what to do
+
+Intend to do it
+
+Still fail to execute consistently
+
+
+This distinction is critical.
+
+
+---
+
+8. Diagnosis (How It Is Done)
+
+Diagnosis requires:
+
+Symptoms present before age 12
+
+Symptoms in two or more settings (home, school, work)
+
+Functional impairment
+
+Clinical assessment (not a blood test or brain scan)
+
+
+Assessment includes:
+
+Clinical interview
+
+Behavioral rating scales
+
+Developmental history
+
+
+
+---
+
+9. Treatment (Evidence-Based)
+
+1. Medication (Most Effective for Core Symptoms)
+
+Stimulants:
+
+Methylphenidate
+
+Amphetamine-based medications
+
+
+They increase dopamine and norepinephrine availability.
+
+Response rate: ~70–80%
+
+Non-stimulants:
+
+Atomoxetine
+
+Guanfacine
+
+
+
+---
+
+2. Behavioral Therapy
+
+Especially effective in children:
+
+Parent training
+
+Classroom structure
+
+Skill training
+
+
+
+---
+
+3. Cognitive Behavioral Therapy (CBT)
+
+Helpful for adults:
+
+Time management
+
+Organization
+
+Emotional regulation
+
+
+
+---
+
+10. ADHD and Intelligence
+
+ADHD is not related to intelligence level.
+
+You can have:
+
+High IQ + ADHD
+
+Average IQ + ADHD
+
+Learning disability + ADHD
+
+
+They are independent variables.
+
+
+---
+
+11. Comorbidities (Very Common)
+
+ADHD frequently co-occurs with:
+
+Anxiety disorders
+
+Depression
+
+Learning disorders
+
+Autism spectrum disorder
+
+Substance use disorder
+
+
+Up to 60–70% have at least one additional condition.
+
+
+---
+
+12. Long-Term Outcomes
+
+Untreated ADHD is associated with:
+
+Academic underachievement
+
+Higher accident rates
+
+Financial instability
+
+Increased mental health risk
+
+
+Early treatment improves:
+
+Educational outcomes
+
+Self-esteem
+
+Functional stability
+
+
+
+---
+
+Mental Model Summary
+
+ADHD =
+Neurodevelopmental difference in executive control systems, primarily involving dopamine-regulated attention and impulse circuits.
+
+It is a regulation disorder, not a willpower disorder.
+
+
+---
